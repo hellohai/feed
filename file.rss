@@ -7,14 +7,14 @@
 	xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 	<channel>		
 		<item>
-			<title>Title</title>
+			<title>&#128515;</title>
 			<category>rss</category>
 			<dc:creator>James Jackson</dc:creator>
 			<pubDate>Tue, 23 Jul 2019 04:42:30 +0000</pubDate>
 			<link>https://www.jamesdarin.work/writing/2019/7/23/title</link>
 			<guid isPermaLink="false">5907f77d5016e17b11bb1d83:59080045c534a53150517aaf:5d3690287b0795000199f22a</guid>
 			<description>
-				<![CDATA[<p class="">Body</p>]]>
+				<![CDATA[<html><p>Body</p></html>]]>
 			</description>
 		</item>
 		<item>
