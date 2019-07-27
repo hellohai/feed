@@ -5,9 +5,11 @@
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
-	<item>
-		<title>Writing - James | Digital Producer, Digital Producer, Design in Brooklyn, NY</title>
-		<link>https://www.jamesdarin.work/writing/</link>
-		<description>Hey this is the description</description>
-	</item>
+    <channel>
+    	<item>
+    		<title>Writing - James | Digital Producer, Digital Producer, Design in Brooklyn, NY</title>
+    		<link>https://www.jamesdarin.work/writing/</link>
+    		<description>Hey this is the description</description>
+    	</item>
+	</channel>
 </rss>
