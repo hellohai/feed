@@ -5,7 +5,8 @@
 	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
-	<channel>		
+	<channel>
+		<title>Start here</title>
 		<item>
 			<title>&#128515;</title>
 			<category>rss</category>
