@@ -2,31 +2,23 @@
 
 <?xml-stylesheet type="text/css" href="https://raw.githubusercontent.com/hellohai/feed/master/style.css"?>
 <rss>
-	<channel>
-		<item>
-			<title>&#128515;</title>
-			<category>rss</category>
-			<dc:creator>James Jackson</dc:creator>
-			<pubDate>Tue, 23 Jul 2019 04:42:30 +0000</pubDate>
-			<link>https://www.jamesdarin.work/writing/2019/7/23/title</link>
-			<guid isPermaLink="false">5907f77d5016e17b11bb1d83:59080045c534a53150517aaf:5d3690287b0795000199f22a</guid>
-			<description>
-				<![CDATA[<html><body><p>Body</p></body></html>]]>
-			</description>
-		</item>
-		<item>
-			<title>&#x1f44d;</title>
-			<category>designops</category>
-			<dc:creator>James Jackson</dc:creator>
-			<pubDate>Tue, 11 Jun 2019 21:46:54 +0000</pubDate>
-			<link>https://www.jamesdarin.work/writing/2019/5/2/my-personal-organization-system</link>
-			<guid isPermaLink="false">5907f77d5016e17b11bb1d83:59080045c534a53150517aaf:5ccb8561f4e1fcdaca4dc4c8</guid>
-			<description>
-			Description here
-			</description>
-			<media:content type="image/jpeg" url="http://static1.squarespace.com/static/5907f77d5016e17b11bb1d83/59080045c534a53150517aaf/5ccb8561f4e1fcdaca4dc4c8/1560289638462/1500w/marketers_hugo_sm-1560x760.jpg" medium="image" isDefault="true" width="781" height="760">
-				<media:title type="plain">My Personal Organization System</media:title>
-			</media:content>
-		</item>
-	</channel>
+<channel>
+<item>
+<title>&#128515;</title>
+<link>https://www.jamesdarin.work/writing/2019/7/23/title</link>
+<description>
+<![CDATA[<html><body><p>Body</p></body></html>]]>
+</description>
+</item>
+
+<item>
+<title>&#x1f44d;</title>
+<link>https://www.jamesdarin.work/writing/2019/5/2/my-personal-organization-system</link>
+<description>
+Description here<br>
+	here's another line
+	and another
+</description>
+</item>
+</channel>
 </rss>
